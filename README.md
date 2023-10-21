@@ -1,5 +1,5 @@
-# Group 6
-## Hackathon
+# Hackathon
+## Group 6
 
 | Members         | Net ID  | Email               
 | --------------- | ------- | ------------------- 
